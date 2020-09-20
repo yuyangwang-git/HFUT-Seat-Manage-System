@@ -1,8 +1,6 @@
 # -*- coding: utf8 -*-
 
 import requests
-import time
-import random
 from hfut_vpn import HFUTVpn
 from seat_manage_system import SeatManageSystem
 
